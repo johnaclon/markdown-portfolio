@@ -1,2 +1,2 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![profile link](https://github.com/johnaclon)
+![john clon](http://john-aclon.github.io/)
